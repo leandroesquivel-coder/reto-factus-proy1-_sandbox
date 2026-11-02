@@ -1,0 +1,6 @@
+{
+  "name": "Factus Challenge - Sistema de Facturación Electrónica DIAN",
+  "description": "Solución completa del Reto Factus con backend Node.js/Express, conexión a PostgreSQL (Supabase/Neon), integración con API de Factus (OAuth 2.0) y panel frontend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
